@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "allowSyntheticDefaultImports": true,
+    "types": ["node"],
+    "lib": ["dom", "esnext"],
+    "moduleResolution": "node",
+    "incremental": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "baseUrl": "./",
+    "experimentalDecorators": true,
+    "downlevelIteration": true
+  }
+}
