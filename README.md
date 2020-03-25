@@ -6,3 +6,9 @@
 2. 本リポジトリを clone し、root ディレクトリで yarn を実行します。
 3. ターミナルで`yarn start ${1.で取得したTOKEN}` を実行します。
 4. posts.json というファイル名で記事を取得した json が保存されます。やったね！
+
+## 謝辞
+
+データ取得部分は kawamataryo さんの以下のリポジトリをクローンさせていただいております 🙏
+
+https://github.com/kawamataryo/qiita-backup-with-firebase
